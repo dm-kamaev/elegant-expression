@@ -8,8 +8,7 @@
     "test": "make test"
   },
   "files": [
-    "index.js",
-    "index.d.ts"
+    "dist"
   ],
   "keywords": [
     "try",
