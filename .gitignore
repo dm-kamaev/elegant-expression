@@ -1,0 +1,9 @@
+.env
+node_modules
+*.html
+*.info
+coverage/lcov-report
+dist
+
+test/*.js
+test/*.d.ts
